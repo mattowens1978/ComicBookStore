@@ -1,5 +1,7 @@
 # Welcome to the ComicBookStore README!
 
+This project was created in Visual Studio Community Edition 2019.
+
 Once you have the project files and are able to RUN the program, there are very few instructions for this simple program.
 ## INSTRUCTIONS
 ### **Search**
